@@ -1,0 +1,23 @@
+Create a databse in raspberry pi with below things
+name
+gender
+address
+blood group
+contact no
+
+
+In android app, there will be an Add button which will
+take above details and send sms
+this is the feature of Register Donor
+Then in search option, the user will have facility to
+search for blood group based on area and based on gender
+
+
+
+Sender will send sms from app as
+query,bloodgroup
+
+for example
+
+query,b+
+
